@@ -41,7 +41,7 @@ or you can try them if they work or don't.)
 
 ## Features
 
-- Persistent memory with auto‑summarization
+- Persistent memory (Vector DB)
 - Clean 80‑column UI (no emojis in output), progress bars, syntax highlighting
 - Real‑time web search via Brave Search (async)
 - Safe file writes with confirmation prompts
